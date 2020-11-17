@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration monitorinterval="60" status="DEBUG" strict="true">
+
+	<Properties>
+		<Property name="filename">logs/moebelhaus.log</Property>
+	</Properties>
+
+	<Appenders>
+		<Appender type="Console" name="Console">
+			<Layout type="PatternLayout" pattern="%d %p [%t] %m%n" />
+		</Appender>
+
+		<RollingFile name="RollingFile" fileName="${filename}"
+			filePattern="${filename}-%d{yyyy-MM-dd}-%i.log">
+			<PatternLayout>
+				<pattern>%d{dd.MM.yyyy HH:mm:ss:SSS}- %c{1}: %m%n</pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="1000 KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="4" />
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<Logger name="root" level="debug" additivity="false">
+			<appender-ref ref="Console" lefel="debug" />
+			<appender-ref ref="RollingFile" level="debug" />
+		</Logger>
+		<Root level="debug" additivity="false">
+			<AppenderRef ref="RollingFile" />
+		</Root>
+	</Loggers>
+</Configuration>
+

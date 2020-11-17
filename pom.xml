@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ch.hslu.informatik</groupId>
+	<artifactId>moebelhaus</artifactId>
+	<packaging>pom</packaging>
+	<version>1.0</version>
+	<name>moebelhaus</name>
+	<url>http://maven.apache.org</url>
+
+	<organization>
+		<name>Hochschule Luzern - Informatik</name>
+		<url>http://www.hslu.ch/informatik/</url>
+	</organization>
+
+	<properties>
+		<maven-compiler-plugin-version>3.1</maven-compiler-plugin-version>
+		<developer.id>jsucur</developer.id>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
+	<developers>
+		<developer>
+			<id>${developer.id}</id>
+			<name>Jordan Sucur</name>
+			<email>jordan.sucur@hslu.ch</email>
+			<organization>HSLU Informatik</organization>
+			<roles>
+				<role>Developer</role>
+			</roles>
+		</developer>
+	</developers>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.4</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-api</artifactId>
+			<version>2.7</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.logging.log4j</groupId>
+			<artifactId>log4j-core</artifactId>
+			<version>2.7</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<!-- Kompiliert den Quellcode (main source files und test source files) -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+					<compilerArguments>
+						<bootclasspath>${sun.boot.class.path}${path.separator}${java.home}/lib/jfxrt.jar</bootclasspath>
+					</compilerArguments>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<modules>
+		<module>moebelhaus-model</module>
+		<module>moebelhaus-api</module>
+		<module>moebelhaus-persister</module>
+		<module>moebelhaus-pdfprinter</module>
+		<module>moebelhaus-business-benutzer</module>
+		<module>moebelhaus-business-initializer</module>
+		<module>moebelhaus-business-kasse</module>
+		<module>moebelhaus-business-lager</module>
+		<module>moebelhaus-business-login</module>
+		<module>moebelhaus-business-webservice</module>
+		<module>moebelhaus-gui-kasse</module>
+		<module>moebelhaus-gui-lager</module>
+		<module>moebelhaus-rmi-api</module>
+		<module>moebelhaus-rmi-srv</module>
+	</modules>
+</project>
