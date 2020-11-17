@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.lager.RegaleVerwaltenViewController">
+   <children>
+      <Label layoutX="10.0" layoutY="54.0" text="Regal-Nummer:" />
+      <TextField fx:id="txtRegalNummer" layoutX="110.0" layoutY="50.0" prefWidth="150.0" />
+      <Label layoutX="10.0" layoutY="83.0" text="Anzahl Tablare:" />
+      <ComboBox fx:id="cmbAnzahlTablare" layoutX="110.0" layoutY="79.0" prefWidth="150.0" />
+      <Label layoutX="10.0" layoutY="122.0" text="Verfügbare Regale:" />
+      <TableView fx:id="tblRegale" layoutX="10.0" layoutY="140.0" prefHeight="363.0" prefWidth="363.0">
+        <columns>
+          <TableColumn fx:id="colNummer" prefWidth="100.0" text="Regal-Nr." />
+          <TableColumn fx:id="colBezeichnung" prefWidth="124.0" text="Regalbezeichnung" />
+            <TableColumn fx:id="colAnzahlTablare" prefWidth="124.0" text="Anzahl Tablare" />
+        </columns>
+      </TableView>
+      <Button fx:id="btnSpeichern" layoutX="270.0" layoutY="79.0" mnemonicParsing="false" onAction="#speichern" prefHeight="25.0" prefWidth="104.0" text="Speichern" />
+      <Button fx:id="btnLoeschen" layoutX="270.0" layoutY="50.0" mnemonicParsing="false" onAction="#regalLoeschen" prefHeight="25.0" prefWidth="104.0" text="Löschen" />
+      <Label fx:id="lblError" layoutX="50.0" layoutY="25.0" prefHeight="17.0" prefWidth="362.0" textFill="RED" />
+   </children>
+</AnchorPane>

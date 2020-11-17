@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0"
+	xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.lager.LagerbestandAbfrageViewController">
+	<children>
+		<Label layoutX="10.0" layoutY="24.0" text="Produkt-Typ:" />
+		<ComboBox fx:id="cmbProduktTyp" layoutX="90.0" layoutY="20.0" onAction="#updateTable" prefHeight="25.0" prefWidth="250.0" />
+
+		<Label layoutX="10.0" layoutY="72.0" text="Aktueller Lagerbestand:" />
+		<TableView fx:id="tblAktuellerBestand" layoutX="10.0" layoutY="90.0" prefHeight="400.0" prefWidth="1160.0">
+			<columns>
+				<TableColumn fx:id="colNr" prefWidth="50.0" text="Nr." />
+				<TableColumn fx:id="colProduktTypCode" prefWidth="175.0" text="Produkt-Typ Code" />
+				<TableColumn fx:id="colBeschreibung" prefWidth="560.0" text="Beschreibung" />
+				<TableColumn fx:id="colLieferant" prefWidth="150.0" text="Lieferant" />
+				<TableColumn fx:id="colPreis" minWidth="0.0" prefWidth="70.0" text="Preis" />
+				<TableColumn fx:id="colAnzahlInt" minWidth="0.0" prefWidth="70.0" text="Anzahl Int." />
+				<TableColumn fx:id="colAnzahlExt" minWidth="0.0" prefWidth="70.0" text="Anzahl Ext." />
+			</columns>
+		</TableView>
+	</children>
+</AnchorPane>

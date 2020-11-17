@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.lager.LagerFilialeHomeViewController">
+   <children>
+      <Label fx:id="lblWillkommen" alignment="CENTER" contentDisplay="CENTER" layoutX="232.0" layoutY="25.0" prefHeight="17.0" prefWidth="716.0" text="Willkommen Meldung ... " wrapText="true">
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblMoebelhausname" alignment="CENTER" contentDisplay="CENTER" layoutX="363.0" layoutY="100.0" prefHeight="17.0" prefWidth="454.0" text="Name des Möbelhauses ...">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblAdresse" alignment="CENTER" contentDisplay="CENTER" layoutX="363.0" layoutY="150.0" prefHeight="17.0" prefWidth="454.0" text="Adresse des Möbelhauses ..." wrapText="true">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      
+      <Button fx:id="btnHomeView" layoutX="440.0" layoutY="200.0" mnemonicParsing="false" onAction="#lagerbestand" prefHeight="40.0" prefWidth="300.0" text="Lagerbestand" />
+      <Button fx:id="btnHomeView" layoutX="440.0" layoutY="250.0" mnemonicParsing="false" onAction="#bestellungErfassen" prefHeight="40.0" prefWidth="300.0" text="Bestellung erfassen" />
+      <Button fx:id="btnHomeView" layoutX="440.0" layoutY="310.0" mnemonicParsing="false" onAction="#lieferungAnnehmen" prefHeight="40.0" prefWidth="300.0" text="Lieferung annehmen" />
+      <Button fx:id="btnHomeView" layoutX="440.0" layoutY="360.0" mnemonicParsing="false" onAction="#produktZuruecksenden" prefHeight="40.0" prefWidth="300.0" text="Produkt zurüecksenden" />
+  
+   </children>
+</AnchorPane>

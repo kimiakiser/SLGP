@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<!-- <benutzer>
+		<vorname>Jordan</vorname>
+		<nachname>Sucur</nachname>
+		<strasse>Feldstrasse 12</strasse>
+		<plz>6030</plz>
+		<ort>Ebikon</ort>
+		<email>jsucur@gmail.com</email>
+		<telefon>041 658 31 44</telefon>
+		<benutzername>jsucur</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Administrator</rolle>
+	</benutzer> -->
+	<benutzer>
+		<vorname>Monika</vorname>
+		<nachname>Bucher</nachname>
+		<strasse>Rigistrasse 12</strasse>
+		<plz>6030</plz>
+		<ort>Ebikon</ort>
+		<email>mbucher@gmail.com</email>
+		<telefon>041 222 33 44</telefon>
+		<benutzername>mbucher</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Kasse-Mitarbeiter</rolle>
+	</benutzer>
+	<benutzer>
+		<vorname>Bruno</vorname>
+		<nachname>Ineichen</nachname>
+		<strasse>Mattweg 5</strasse>
+		<plz>6037</plz>
+		<ort>Root</ort>
+		<email>bineichen@gmail.com</email>
+		<telefon>041 100 00 00</telefon>
+		<benutzername>bineichen</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Filiale-Leiter</rolle>
+	</benutzer>
+	<benutzer>
+		<vorname>Marco</vorname>
+		<nachname>Weber</nachname>
+		<strasse>Lindenstrasse 12</strasse>
+		<plz>6030</plz>
+		<ort>Ebikon</ort>
+		<email>mweber@gmail.com</email>
+		<telefon>041 111 11 11</telefon>
+		<benutzername>mweber</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Filiale-Sachbearbeiter</rolle>
+	</benutzer>
+	<benutzer>
+		<vorname>Ana</vorname>
+		<nachname>Fischer</nachname>
+		<strasse>Bundesstrasse 112</strasse>
+		<plz>6002</plz>
+		<ort>Luzern</ort>
+		<email>afischer1980@sbb.ch</email>
+		<telefon>041 222 22 22</telefon>
+		<benutzername>afischer</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Filiale-Sachbearbeiter</rolle>
+	</benutzer>
+	<benutzer>
+		<vorname>Roger</vorname>
+		<nachname>Portmann</nachname>
+		<strasse>Unterdorfstrasse 12</strasse>
+		<plz>6033</plz>
+		<ort>Buchrain</ort>
+		<email>rportmann1975@sunrise.ch</email>
+		<telefon>041 555 55 55</telefon>
+		<benutzername>rportmann</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Kasse-Mitarbeiter</rolle>
+	</benutzer>
+	<benutzer>
+		<vorname>Adrian</vorname>
+		<nachname>Lindauer</nachname>
+		<strasse>Gothardstrasse 64</strasse>
+		<plz>6484</plz>
+		<ort>Wassen</ort>
+		<email>alindauer@bluewin.ch</email>
+		<telefon>041 666 66 66</telefon>
+		<benutzername>alindauer</benutzername>
+		<passwort>geheim</passwort>
+		<rolle>Kasse-Mitarbeiter</rolle>
+	</benutzer>
+</users>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lieferanten>
+	<lieferant>
+		<name>Möbelfabrik Walker AG</name>
+		<strasse>Bundesstrasse 44</strasse>
+		<plz>6280</plz>
+		<ort>Hochdorf </ort>
+		<email>info@moebel.walker.ch</email>
+		<telefonnummer>079 876 76 65</telefonnummer>
+	</lieferant>
+	<lieferant>
+		<name>Holzmöbel Fischer AG</name>
+		<strasse>Bergstrasse 28</strasse>
+		<plz>6440</plz>
+		<ort>Brunnen</ort>
+		<email>info@holzmoebel.fischer.ch</email>
+		<telefonnummer>076 765 65 54</telefonnummer>
+	</lieferant>
+	<lieferant>
+		<name>Möbelfabrik Zwissig GmbH</name>
+		<strasse>Zwyergasse 17</strasse>
+		<plz>6460</plz>
+		<ort>Altdorf</ort>
+		<email>info@moebel.zwissig.ch</email>
+		<telefonnummer>077 634 13 44</telefonnummer>
+	</lieferant>
+</lieferanten>

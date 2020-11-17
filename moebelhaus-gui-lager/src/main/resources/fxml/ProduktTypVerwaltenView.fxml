@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.lager.ProduktTypVerwaltenViewController">
+	<children>
+		<Label fx:id="lblError" layoutX="10.0" layoutY="9.0" prefHeight="17.0" prefWidth="1150.0" textFill="RED" />
+		<Label layoutX="10.0" layoutY="32.0" text="Lieferant:" />
+		<TextField fx:id="txtLieferanten" editable="false" layoutX="10.0" layoutY="49.0" prefWidth="360.0" />
+		<ComboBox fx:id="cmbLieferanten" layoutX="10.0" layoutY="49.0" prefHeight="25.0" prefWidth="360.0" />
+
+		<Label layoutX="10.0" layoutY="87.0" text="Produkt-Typ Name:" />
+		<TextField fx:id="txtProduktTypName" layoutX="10.0" layoutY="104.0" prefHeight="25.0" prefWidth="360.0" />
+		<Label layoutX="400.0" layoutY="87.0" text="Produkt-Typ Code:" />
+		<TextField fx:id="txtProduktTypCode" layoutX="400.0" layoutY="104.0" prefHeight="25.0" prefWidth="360.0" />
+		<Label layoutX="790.0" layoutY="87.0" text="Preis [CHF]:" />
+		<TextField fx:id="txtPreis" layoutX="787.0" layoutY="104.0" prefHeight="25.0" prefWidth="104.0" />
+		<Label layoutX="915.0" layoutY="87.0" text="Ablage-Regal:" />
+		<ComboBox fx:id="cmbRegal" layoutX="915.0" layoutY="104.0" prefHeight="25.0" prefWidth="111.0" />
+		<Label layoutX="1050.0" layoutY="87.0" text="Ablage-Tablar:" />
+		<ComboBox fx:id="cmbTablar" layoutX="1050.0" layoutY="104.0" prefHeight="25.0" prefWidth="110.0" />
+		<Label layoutX="10.0" layoutY="138.0" text="Beschreibung:" />
+		<TextField fx:id="txtBeschreibung" layoutX="10.0" layoutY="155.0" prefHeight="25.0" prefWidth="880.0" />
+		<Label layoutX="915.0" layoutY="138.0" text="Minimaler Bestand:" />
+		<ComboBox fx:id="cmbMin" layoutX="915.0" layoutY="155.0" prefHeight="25.0" prefWidth="111.0" />
+		<Label layoutX="1050.0" layoutY="138.0" text="Maximaler Bestand:" />
+		<ComboBox fx:id="cmbMax" layoutX="1050.0" layoutY="155.0" prefHeight="25.0" prefWidth="110.0" />
+		<Button fx:id="btnSpeichern" layoutX="1050.0" layoutY="189.0" mnemonicParsing="false" onAction="#speichern" prefHeight="25.0" prefWidth="110.0" text="Speichern" />
+
+		<Button fx:id="btnNeuenProduktTypHinzufuegen" layoutX="10.0" layoutY="189.0" mnemonicParsing="false" onAction="#neuenProduktTypHinzuguegen" prefHeight="25.0" prefWidth="111.0" text="Neu" />
+		<Button fx:id="btnReset" layoutX="130.0" layoutY="189.0" mnemonicParsing="false" onAction="#reset" prefHeight="25.0" prefWidth="111.0" text="Reset" />
+
+		<Separator layoutX="10.0" layoutY="185.0" prefHeight="1.0" prefWidth="1150.0" />
+		<TableView fx:id="tblProduktTyp" layoutX="10.0" layoutY="222.0" prefHeight="268.0" prefWidth="1150.0">
+			<columns>
+				<TableColumn fx:id="colNummer" prefWidth="30.0" text="Nr." />
+				<TableColumn fx:id="colLieferant" prefWidth="160.0" text="Lieferant" />
+				<TableColumn fx:id="colProduktTypCode" prefWidth="190.0" text="ProduktTyp-Code" />
+				<TableColumn text="Bestand [Stück]">
+					<columns>
+						<TableColumn fx:id="colMinBestand" prefWidth="50.0" text="Min." />
+						<TableColumn fx:id="colMaxBestand" prefWidth="50.0" text="Max." />
+					</columns>
+				</TableColumn>
+				<TableColumn fx:id="colAblage" prefWidth="60.0" text="Ablage" />
+				<TableColumn fx:id="colBeschreibung" prefWidth="535.0" text="Beschreibung" />
+				<TableColumn fx:id="colPreis" prefWidth="60.0" text="Preis" />
+			</columns>
+		</TableView>
+
+		<Button fx:id="btnInfoKarte" layoutX="10.0" layoutY="493.0" mnemonicParsing="false" onAction="#printInfoKarte" prefHeight="25.0" prefWidth="87.0" text="Infokarte" />
+		<Button fx:id="btnLoeschen" layoutX="1050.0" layoutY="493.0" mnemonicParsing="false" onAction="#loeschen" prefHeight="25.0" prefWidth="110.0" text="Löschen" />
+
+	</children>
+</AnchorPane>

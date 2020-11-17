@@ -1,0 +1,24 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="users">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="benutzer" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="vorname"/>
+              <xs:element type="xs:string" name="nachname"/>
+              <xs:element type="xs:string" name="strasse"/>
+              <xs:element type="xs:short" name="plz"/>
+              <xs:element type="xs:string" name="ort"/>
+              <xs:element type="xs:string" name="email"/>
+              <xs:element type="xs:string" name="telefon"/>
+              <xs:element type="xs:string" name="benutzername"/>
+              <xs:element type="xs:string" name="passwort"/>
+              <xs:element type="xs:string" name="rolle"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

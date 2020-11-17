@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mit XMLSpy v2017 sp2 (x64) (http://www.altova.com) von IT Services (Hochschule 
+	Luzern,) bearbeitet -->
+<produktTypen>
+	<!-- Moebelfabrik Walker AG -->
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Pascal-2240</code>
+		<preis>699.00</preis>
+		<beschreibung>Lackierte Korpusteile in Mattlack, weiss, 3 Schubkästen mit Superweissglasblenden, B 132 T 60 H 75 cm </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Elon-1553</code>
+		<beschreibung>Klarglas, Seitenteile Aluminium geschliffen, Kabelrückwand, parkettgeeignete Rollen, Belastbarkeit 40 kg, B 80 T 53 H 76 cm </beschreibung>
+		<preis>359.00</preis>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Steve-2011</code>
+		<preis>1199.00</preis>
+		<beschreibung>Individuell zusammenstellbar, höhenverstellbar 70-117cm, Untergestell eckig, Metall anthrazit, B 160 T 60 H 75 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Mike-8901</code>
+		<preis>220.00</preis>
+		<beschreibung>Mit magnetischer, beschreibbarer Tafel und Öffnung auf der Rückseite für verdeckte Kabel </beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Natan-1101</code>
+		<preis>789.00</preis>
+		<beschreibung>Tisch aus Massivholz mit zwei seitlichen Schubladen </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Richard-7634</code>
+		<preis>1049.00</preis>
+		<beschreibung>Furnierte und abgerundete Tischplatte, schwarzbraun/weiss, höhenverstellbar, erfüllt Sicherheitsrichtlinien EN 527 und ANSI/BIFMAx5.5-2008 </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Eddy-4267</code>
+		<preis>150.00</preis>
+		<beschreibung>Dreifach-höhenverstellbar für Kinder, weiss/grün, mit Schreibtischaufsatz </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Alex-5412</code>
+		<preis>249.00</preis>
+		<beschreibung>Tischplatten aus Melamin, weiss/blau, geräumige Arbeitsfläche (B 140 T 75 cm) </beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Milan-7638</code>
+		<preis>979.00</preis>
+		<beschreibung>Gartentisch MILAN mit durchsichtigem Glas und weisse Gestelle, wetterbeständig </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Barcelona-8466</code>
+		<preis>529.00</preis>
+		<beschreibung>Gestell aus Akazienholz weiss gebürstet, Platte aus Kunststein naturfarben </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Ascona-7367</code>
+		<preis>999.00</preis>
+		<beschreibung>Stahlrohrgestell pulverbeschichtet schwarz, Tischplatte Keramik-Mosaik in Zement verlegt (Handarbeit) </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Endor-1983</code>
+		<preis>131.00</preis>
+		<beschreibung>Akazienholz geölt, ausziehbar bis 210 cm </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Vienna-1884</code>
+		<preis>1249.00</preis>
+		<beschreibung>Ausziehtisch Vienna, Keramik, B 90 T 200-260 H 73.3 cm </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Sylt-4609</code>
+		<preis>870.00</preis>
+		<beschreibung>Tisch Triangular, Tischplatte aus Magahoniholz, Gestell Eisen</beschreibung>
+		<min-bestand>0</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Dover-7223</code>
+		<preis>649.00</preis>
+		<beschreibung>Gartentisch Dover, HPL tundra, ausziehbar, B 160-210 T 90 H 76 cm	</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Milan-7644</code>
+		<preis>146.00</preis>
+		<beschreibung>Gartenstuhl MILAN, weiss, wetterbeständig</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Ascona-7389</code>
+		<preis>149.00</preis>
+		<beschreibung>Gartenstuhl Ascona, Aluminium anthrazit, Stahlrohr, B 49 T 49 H 88 cm </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Dover-7243</code>
+		<preis>99.00</preis>
+		<beschreibung>Mit sanft geschwungener Linienführung und schwarzem Netzbezug als ausgesprochen eleganter Kurvenstar </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Oxford-9919</code>
+		<preis>1583.00</preis>
+		<beschreibung>Bezug Leder siena, ohne Ledertrennungsnaht, Sitz-/Rückenkissen mit Dickfadenziernaht, Metallfuss hochglanz höhenverstellbar, B 188 T 87 H 84 cm - Sitztiefe 53 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Brest-2008</code>
+		<preis>1307.00</preis>
+		<beschreibung>3er Sofa mit zeitlos elegantem Design, klappbaren Armlehnen und höhenverstellbaren Füssen </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Sevilla-1399</code>
+		<preis>1784.00</preis>
+		<beschreibung>Sofa mit geschwungenem Rückenform im Romanesco-Stil, Stoff grau, Chesterfield, B 275 T 120 H 78 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Minsk-4546</code>
+		<preis>5092.00</preis>
+		<beschreibung>2er Sofa Minsk, Leder, höhenverstellbar, B 144 cm T 86 cm H 81-84 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Malmo-7223</code>
+		<preis>5333.00</preis>
+		<beschreibung>3er Sofa Malmo, Leder schwarz, B 222 T 86 H 78 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Bergen-4183</code>
+		<preis>5426.00</preis>
+		<beschreibung>3er Sofa Bergen, Leder anthrazit, Chrom Glanz, B 191 T 85 H 80-85 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Porto-1624</code>
+		<preis>1007.00</preis>
+		<beschreibung>Sofa Porto, Federkern, Schabracke, mit floralen Muster über den Streifen, B 173 T 90 H 86 cm </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Malta-1992</code>
+		<preis>1658.00</preis>
+		<beschreibung>3er Sofa Malta, Velours Stoff enzianblau, mit Löwenfüssen und geschwungenen Formen, B 209 T 85 H 98 cm </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Oslo-1772</code>
+		<preis>3339.00</preis>
+		<beschreibung>3er Sofa Oslo, Leder braun, Alu poliert, B 214 T 96 H 71 cm </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Oxford-9942</code>
+		<preis>474.90</preis>
+		<beschreibung>Bezug Leder siena, ohne Ledertrennungsnaht, Sitz-/Rückenkissen mit Dickfadenziernaht, Metallfuss hochglanz höhenverstellbar </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Minsk-4577</code>
+		<preis>1529.00</preis>
+		<beschreibung>Sessel Malmo, Leder schwarz</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Porto-1654</code>
+		<preis>499.00</preis>
+		<beschreibung>Sessel Porto, Federkern, Schabracke, mit floralen Muster über den Streifen </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Malta-1997</code>
+		<preis>899.00</preis>
+		<beschreibung>Sessel Malta, Samt enzianblau, Armlehne rechts, B 102 cm T 85 cm H 93 cm </beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Estella-9812</code>
+		<preis>1099.00</preis>
+		<beschreibung>Individuell zusammenstellbar, Eiche massiv aus Kroatien </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Noctura-1231</code>
+		<preis>1879.00</preis>
+		<beschreibung>Boxspringbett mit Kopfteil und Mini-Bonell-Federkern-Unterfederung, Stoff schwarz, B 180 T 200 cm </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Aida-1893</code>
+		<preis>1699.00</preis>
+		<beschreibung>Boxspringbett mit Kopfteil, Stoff beige, B 180 T 200 cm </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Cara-1982</code>
+		<preis>1770.00</preis>
+		<beschreibung>Individuell zusammenstellbar, Akazie Massivholz aus Vietnam </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Premiumstar-2012</code>
+		<preis>4899.00</preis>
+		<beschreibung>Mit atmungsaktiven Kern aus Tachenfedern, elektronisch verstellbar inklusiv Fernbedienung und Kletttasche, mit Topper </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Elba-3623</code>
+		<preis>899.00</preis>
+		<beschreibung>Einzelbett, ausziehbar zu Doppelbett, Längszarge aus Schichtholz, Kopfteil aus Buche massiv </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Solo-4567</code>
+		<preis>1200.00</preis>
+		<beschreibung>Inklusiv Kopfteil Kiefer, Füsse Birke massiv, geölt </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Flaxa-4534</code>
+		<preis>1420.00</preis>
+		<beschreibung>Boxspringbett mit Querzage aus Fichte massiv, Abdeckung aus Spanplatte (Mischholz), Längszarge aus Schichtholz </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Oasis-2443</code>
+		<preis>79.00</preis>
+		<beschreibung>MDF recycelt, Hochglanz</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Lima-1000</code>
+		<preis>159.00</preis>
+		<beschreibung>Mit 1 Schublade, limongelb, Korpus aus Spanplatte (Mischholz) Schweiz, Füsse aus Wildeiche Polen </beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Davos-2790</code>
+		<preis>220.00</preis>
+		<beschreibung>Mit 1 Schublade, Nussbaum massiv Kroatien</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Moby-1612</code>
+		<preis>59.00</preis>
+		<beschreibung>3 Ablagen, MDF, weiss lackiert</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Charm-4884</code>
+		<preis>189.00</preis>
+		<beschreibung>1 Ablage, Akazie Vietnam, weiss lasiert</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Jakku-5443</code>
+		<preis>229.00</preis>
+		<beschreibung>3 Schubladen, lackiert, Korpus Spannplatte, foliert </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Stair-2016</code>
+		<preis>109.00</preis>
+		<beschreibung>Eiche natur, gebürstet, geölt</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Montana-6091</code>
+		<preis>2091.00</preis>
+		<beschreibung>Sheesham massiv, lackiert, für 8 Personen</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Stay-1772</code>
+		<preis>1029.00</preis>
+		<beschreibung>1 Klappauszug, Spanplatte melaminbeschichtet, Eicheoptik </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Marquis-8777</code>
+		<preis>1899.00</preis>
+		<beschreibung>1 Klappauszug, Nussbaum massiv, geölt</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Bespin-1667</code>
+		<preis>1299.00</preis>
+		<beschreibung>MDF weiss, matt lackiert, Beine Eiche massiv, geölt </beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Glass-5089</code>
+		<preis>2599.00</preis>
+		<beschreibung>Ausziehbar, Glas satiniert</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Montreal-8023</code>
+		<preis>1699.00</preis>
+		<beschreibung>Wildeiche massiv, Farbe Honig, mit rustikalen Bolzen-Applikationen und Rissklammern </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Alderaan-8910</code>
+		<preis>1891.00</preis>
+		<beschreibung>Mit Optiwhiteglas, Metall Glanzchrom</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Montana-6122</code>
+		<preis>156.00</preis>
+		<beschreibung>Sheesham massiv, lackiert, gepolstert</beschreibung>
+		<min-bestand>6</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Marquis-8799</code>
+		<preis>142.00</preis>
+		<beschreibung>Nussbaum massiv, Poltster schwarz</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Montreal-8002</code>
+		<preis>129.00</preis>
+		<beschreibung>Wildeiche massiv, Farbe Honig</beschreibung>
+		<min-bestand>6</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Corellia-1881</code>
+		<preis>64.00</preis>
+		<beschreibung>Gestell verchromt, Sitz Schichtholz Pappel, Ahorn furniert, lackiert, stapelbar</beschreibung>
+		<min-bestand>6</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Yavin-4444</code>
+		<preis>104.00</preis>
+		<beschreibung>Sitzfläche Kunstleder schwarz, Armlehne Kunststoff schwarz, Gestell Metall verchromt, Höhe verstellbar 91-99 cm, Wippmechanismus </beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Clark-1922</code>
+		<preis>192.00</preis>
+		<beschreibung>Sitzfläche und Rückenlehne Stoff grau, Gestell Metall verchromt, Höhe verstellbar 84-95 cm</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Bruce-1934</code>
+		<preis>879.00</preis>
+		<beschreibung>Sitzfläche 75 % Schurwolle 25% Polyamid anthrazit, Rückenlehne 100% Polyester, Sitz und Arm höhenverstellbar,	Spezial-Orthositz mit Body-Balance-Tec-Gelenk</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Lion-1990</code>
+		<preis>804.00</preis>
+		<beschreibung>Sitzfläche und Rücken Leder, schwarz, Untergestell Aluminium poliert, Höhe verstellbar 110-120 cm, Sicherheitsstopprollen für Teppich</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Marty-8791</code>
+		<preis>299.0</preis>
+		<beschreibung>Sitzfläche und Rückenlehne Mesh schwarz, ohne Armlehnen, Gestell Metall verchromt, Höhe verstellbar 87-99 cm</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Egg-1299</code>
+		<preis>599.00</preis>
+		<beschreibung>Sitzfläche Kunstleder, schwarz, Rücken Polypropylen, weiss, Untergestell Metall verchromt</beschreibung>
+		<min-bestand>6</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Glass-5055</code>
+		<preis>1299.00</preis>
+		<beschreibung>Schwebetürenschrank, weiss, Spiegel, Glas, B 240 T 69 H 223 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Leia-2016</code>
+		<preis>1692.00</preis>
+		<beschreibung>Elementschrank aus Kunstharz, weiss, Alugriffe</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Montana-6097</code>
+		<preis>2679.00</preis>
+		<beschreibung>Rustikaler Schrank im Chaletstil, Sumpfeiche, Eisenbeschläge</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Eclipse-2012</code>
+		<preis>4399.00</preis>
+		<beschreibung>Mattglas, Schiebetüren, reinweiss, 3 türig, B 219 H 226 T 70 cm</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Walker AG</lieferant>
+	</produktTyp>
+
+	<!-- Holzmöbel Fischer AG -->
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Java-1808</code>
+		<preis>1259</preis>
+		<beschreibung>Individuell zusammenstellbar, Akazie Massivholz aus Java</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Undreal-5462</code>
+		<preis>1190</preis>
+		<beschreibung>Bettgestell mit Kopfteil, Schwarz</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Malm-5122</code>
+		<preis>390</preis>
+		<beschreibung>Bettgestell mit Kopfteil, Braun</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-DXRC-2933</code>
+		<preis>299</preis>
+		<beschreibung>Bürostuhl mit Armlehnen, Leder, Red</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Robert-3432</code>
+		<preis>659</preis>
+		<beschreibung>Individuell zusammenstellbar, höhenverstellbar 70-100cm, Untergestell rund, Aluminium geschliffen, B 160 T 60 H 75 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Frank-3432</code>
+		<preis>799</preis>
+		<beschreibung>Höhenverstellbarer Computer-Tisch</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Franker-4778</code>
+		<preis>999</preis>
+		<beschreibung>Motorisierter Computer-Tisch</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Andorra-3552</code>
+		<preis>2509</preis>
+		<beschreibung>1 Klappauszuge, Granitplatte hell</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Ingatorp-4483</code>
+		<preis>1290</preis>
+		<beschreibung>Retro Esstisch, Holz, Grau</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Lacko-7445</code>
+		<preis>39</preis>
+		<beschreibung>Gartenstuhl aus Metall</beschreibung>
+		<min-bestand>7</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Brommo-7566</code>
+		<preis>49</preis>
+		<beschreibung>Liegestuhl aus Holz</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Applaro-5563</code>
+		<preis>79</preis>
+		<beschreibung>Liegestuhl aus Metall</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Tarno-5489</code>
+		<preis>199</preis>
+		<beschreibung>Gartentisch aus Holz</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Runnen-4498</code>
+		<preis>799</preis>
+		<beschreibung>Exklusiver Gartentisch aus Metall</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Reso-5566</code>
+		<preis>149</preis>
+		<beschreibung>Picknicktisch aus Holz</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gestell</name>
+		<code>GSTL-Kallax-7615</code>
+		<preis>65</preis>
+		<beschreibung>Gestell, 2x4 Einheiten</beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gestell</name>
+		<code>GSTL-Utter-1114</code>
+		<preis>789</preis>
+		<beschreibung>Gestell, Holz, Weiss</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gestell</name>
+		<code>GSTL-Greno-1556</code>
+		<preis>776</preis>
+		<beschreibung>Gestell, Holz, Braun</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gestell</name>
+		<code>GSTL-Vajert-4478</code>
+		<preis>459</preis>
+		<beschreibung>Gestell, 2x5 Einheiten, Weiss</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Moritz-5545</code>
+		<preis>279</preis>
+		<beschreibung>Mit 2 Schubladen, Nussbaum massiv Kroatien</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Pipa-6333</code>
+		<preis>109</preis>
+		<beschreibung>Eiche natur, gebürstet, geölt</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Greda-4268</code>
+		<preis>1299</preis>
+		<beschreibung>Nachttisch mit 2 Schubladen</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Estrid-1717</code>
+		<preis>2249</preis>
+		<beschreibung>Rustikaler Schrank, Sumpfeiche, Eisenbeschläge</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Astrid-1817</code>
+		<preis>2299</preis>
+		<beschreibung>Rustikaler Schrank, Sumpfeiche, Eisenbeschläge</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Trysil-4512</code>
+		<preis>349</preis>
+		<beschreibung>Schrank mit Schiebetür</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Hemnes-6663</code>
+		<preis>549</preis>
+		<beschreibung>Schrank mit 2 Türen</beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Kvikne-8845</code>
+		<preis>159</preis>
+		<beschreibung>Schrank mit 2 Schiebetüren, Holz</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Pax-1145</code>
+		<preis>809</preis>
+		<beschreibung>Schrank mit 2 Schiebetüren, Metall</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Logan-8122</code>
+		<preis>339</preis>
+		<beschreibung>Tisch aus Massivholz mit zwei seitlichen Schubladen, ausziehbar</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Bernhard-1254</code>
+		<preis>159</preis>
+		<beschreibung>Sessel, Stoff, Braun</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Hendriksal-7541</code>
+		<preis>89</preis>
+		<beschreibung>Sessel, Stoff, Weiss</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Klipan-3549</code>
+		<preis>249</preis>
+		<beschreibung>Gemütliches Stoffsofa, Grau</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Ektorp-4568</code>
+		<preis>2500</preis>
+		<beschreibung>Ecksofa, Stoff, Grau</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Kivik-2304</code>
+		<preis>799</preis>
+		<beschreibung>Ecksofa, Stoff, Schwarz</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Kallo-2305</code>
+		<preis>999</preis>
+		<beschreibung>Ecksofa mit 4 Plätzen, Stoff, Weiss</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Andorra-3552</code>
+		<preis>259</preis>
+		<beschreibung>Nussbaum massiv, Poltster schwarz</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Norryrd-9940</code>
+		<preis>65</preis>
+		<beschreibung>Esstischstuhl, Holz, Schwarz</beschreibung>
+		<min-bestand>6</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Ypperlig-7785</code>
+		<preis>55</preis>
+		<beschreibung>Esstischstuhl mit Armlehnen, Holz, Weiss</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Ingolf-4458</code>
+		<preis>49</preis>
+		<beschreibung>Stuhl, Schwarz</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Hanne-4432</code>
+		<preis>1479</preis>
+		<beschreibung>Motorisierter Computer-Tisch, Glas</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Robin-1445</code>
+		<preis>4559</preis>
+		<beschreibung>Doppelbett, Kopfteil, Weiss</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Mattias-3299</code>
+		<preis>129</preis>
+		<beschreibung>Gartentisch aus Kunststoff, Gelb</beschreibung>
+		<min-bestand>7</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Sara-3223</code>
+		<preis>329</preis>
+		<beschreibung>Kleiner Esstisch für 2 Personen, Holz</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Ansgar-7543</code>
+		<preis>2000</preis>
+		<beschreibung>Grosser Schrank mit 4 Schiebetüren</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Vilmar-3321</code>
+		<preis>159</preis>
+		<beschreibung>Kleines Stoffsofa für, 2 Sitze</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Hillevi-6551</code>
+		<preis>1599</preis>
+		<beschreibung>Queensize Bett, Braun</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Marina-2112</code>
+		<preis>1599</preis>
+		<beschreibung>4-Teiliges Sesselset, Marineblau</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Arne-5591</code>
+		<preis>4999</preis>
+		<beschreibung>Ecksofa aus Echtleder</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Clemens-6651</code>
+		<preis>1100</preis>
+		<beschreibung>Stoffsofa, 3 Sitze, Anthrazit</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Natol-8754</code>
+		<preis>1499</preis>
+		<beschreibung>Schrank mit 2 Türen, Schwarz Hochglanz</beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTL-Meta-1445</code>
+		<preis>7999</preis>
+		<beschreibung>Wasserbett, komplett mit Matraze</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Holzmöbel Fischer AG</lieferant>
+	</produktTyp>
+
+	<!-- Möbelfabrik Zwissig GmbH -->
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Megan-2455</code>
+		<preis>1349</preis>
+		<beschreibung>Boxspringbett mit Kopfteil, Stoff anthrazit, B 180 T 200 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Jasmin-8297</code>
+		<preis>1655</preis>
+		<beschreibung>Boxspringbett mit Querzage aus Fichte massiv, Abdeckung aus Spanplatte (Mischholz), Längszarge aus Schichtholz</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Nora-5651</code>
+		<preis>1779</preis>
+		<beschreibung>&gt;Inklusiv Kopfteil Kiefer, Füsse Birke massiv, geölt</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Buzz-1262</code>
+		<preis>899</preis>
+		<beschreibung>Ergonimie-Bürostuhl, weiss, Untergestell Metall verchromt</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Jack-6521</code>
+		<preis>659</preis>
+		<beschreibung>Sitzfläche Kunstleder, schwarz, Rücken Polypropylen, weiss, Untergestell Metall verchromt</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Michael-1984</code>
+		<preis>489</preis>
+		<beschreibung>Klarglas, Seitenteile Aluminium geschliffen, Kabelrückwand, parkettgeeignete Rollen, Belastbarkeit 40 kg, B 80 T 53 H 76 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Roma-2887</code>
+		<preis>1779</preis>
+		<beschreibung>2 Klappauszüge, Nussbaum massiv, geölt</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Glasgow-6777</code>
+		<preis>95</preis>
+		<beschreibung>Gartenstuhl GLASGOW, anthrazit, wetterbeständig</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartenstuhl</name>
+		<code>GRTS-Tallinn-1012</code>
+		<preis>49</preis>
+		<beschreibung>Gartenstuhl TALLINN, Aluminium anthrazit, wetterbeständig</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Cavan-5626</code>
+		<preis>850</preis>
+		<beschreibung>Gestell aus Akazienholz weiss gebürstet, Platte aus Kunststein naturfarben</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Glasgow-6777</code>
+		<preis>589</preis>
+		<beschreibung>Akazienholz geölt, ausziehbar bis 210 cm</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Kittilä-9910</code>
+		<preis>760</preis>
+		<beschreibung>Gartentisch Kittilä, HPL tundra, ausziehbar, B 160-210 T 90 H 76 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Tallinn-1012</code>
+		<preis>455</preis>
+		<beschreibung>Tisch Triangular, Gestell Eisen</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Oskar-7125</code>
+		<preis>159</preis>
+		<beschreibung>Eiche natur, gebürstet, geölt</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Sandro-9809</code>
+		<preis>149</preis>
+		<beschreibung>2 Schubladen, lackiert, Korpus Spannplatte, foliert</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Olga-2824</code>
+		<preis>99</preis>
+		<beschreibung>4 Ablagen, MDF, weiss lackiert</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schrank</name>
+		<code>SRAN-Atlantis-1661</code>
+		<preis>2299</preis>
+		<beschreibung>Mattglas, Schiebetüren, reinweiss, 2 türig, B 219 H 226 T 70 cm</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Simon-9231</code>
+		<preis>289</preis>
+		<beschreibung>Dreifach-höhenverstellbar für Kinder, weiss/blau, mit Schreibtischaufsatz</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Regina-6335</code>
+		<preis>679</preis>
+		<beschreibung>Bezug Leder siena, ohne Ledertrennungsnaht, Sitz-/Rückenkissen mit Dickfadenziernaht, Metallfuss hochglanz höhenverstellbar</beschreibung>
+		<min-bestand>3</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Regina-6335</code>
+		<preis>3579</preis>
+		<beschreibung>4er Sofa Regina, Leder anthrazit, Chrom Glanz, B 240 T 85 H 80-85 cm</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Larisa-7131</code>
+		<preis>3589</preis>
+		<beschreibung>Sofa Larisa, Federkern, weiss/blau, Schabracke, B 173 T 90 H 86 cm</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Stuhl</name>
+		<code>STUL-Roma-2887</code>
+		<preis>109</preis>
+		<beschreibung>Eiche massiv, Farbe Palisander</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Charles-4559</code>
+		<preis>419</preis>
+		<beschreibung>Kleiner Nachttisch mit 2 Türen</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Twig-2256</code>
+		<preis>190</preis>
+		<beschreibung>Bürostuhl ohne Armlehne</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Alfred-9731</code>
+		<preis>789</preis>
+		<beschreibung>Schreibtisch, Höhenverstellbar</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Amanda-5226</code>
+		<preis>79</preis>
+		<beschreibung>Nachttisch mit Tür</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Nachttisch</name>
+		<code>NTTI-Ludvig-2661</code>
+		<preis>89</preis>
+		<beschreibung>Nachttisch mit Schiebetür</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Pelle-9965</code>
+		<preis>189</preis>
+		<beschreibung>Kleiner Schhreibtisch</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Teresa-4678</code>
+		<preis>455</preis>
+		<beschreibung>Luxuriöser Bürostuhl mit Lederüberzug</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Sven-6634</code>
+		<preis>799</preis>
+		<beschreibung>Höhenverstellbarer Computer-Tisch mit Licht</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Oskar-2340</code>
+		<preis>299</preis>
+		<beschreibung>Stoffsessel mit Fussteil</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Malena-9032</code>
+		<preis>399</preis>
+		<beschreibung>Ledersessel mit Fussteil</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Joel-2398</code>
+		<preis>499</preis>
+		<beschreibung>Gartentisch aus Holz</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Casper-1245</code>
+		<preis>124</preis>
+		<beschreibung>Bürostuhl mit Leder</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Jacob-2132</code>
+		<preis>579</preis>
+		<beschreibung>Gartentisch mit Bank</beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Computer-Tisch</name>
+		<code>PCTI-Saga-2342</code>
+		<preis>455</preis>
+		<beschreibung>Computertisch mit Beleuchtung</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Schreibtisch</name>
+		<code>DSKT-Ture-5533</code>
+		<preis>159</preis>
+		<beschreibung>Schreibtisch, Höhenverstellbar, Glas</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Stina-8843</code>
+		<preis>299</preis>
+		<beschreibung>Leder, Braun</beschreibung>
+		<min-bestand>5</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Jon-9233</code>
+		<preis>1590</preis>
+		<beschreibung>Gartentisch, Bambus</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bürostuhl</name>
+		<code>STBL-Sibylla-4489</code>
+		<preis>449</preis>
+		<beschreibung>Lederlehne</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Bett</name>
+		<code>BTTG-Tyra-4459</code>
+		<preis>789</preis>
+		<beschreibung>Bett ohne Kopfteil, Grau</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sessel</name>
+		<code>SESL-Gunda-5988</code>
+		<preis>1299</preis>
+		<beschreibung>Stoffsessel, Rot</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Bjarne-7664</code>
+		<preis>1229</preis>
+		<beschreibung>Grosser Picknicktisch, Eiche</beschreibung>
+		<min-bestand>4</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Gartentisch</name>
+		<code>GRTT-Torbjorn-4456</code>
+		<preis>1399</preis>
+		<beschreibung>Grosser Picknicktisch, Bambus</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Sofa</name>
+		<code>SOFA-Adam-2336</code>
+		<preis>2449</preis>
+		<beschreibung>Ecksofa aus rotem Leder</beschreibung>
+		<min-bestand>1</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+	<produktTyp>
+		<name>Esstisch</name>
+		<code>ESST-Teodor-1597</code>
+		<preis>2339</preis>
+		<beschreibung>Esstisch aus Metall, Glasoberfläche</beschreibung>
+		<min-bestand>2</min-bestand>
+		<lieferant>Möbelfabrik Zwissig GmbH</lieferant>
+	</produktTyp>
+</produktTypen>

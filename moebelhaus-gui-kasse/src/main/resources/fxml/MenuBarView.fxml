@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="50.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.kasse.MenuBarViewController">
+	<children>
+		<Label fx:id="lblBenutzer" layoutX="1000.0" layoutY="30.0" prefHeight="20.0" prefWidth="180.0" text=" " textAlignment="RIGHT">
+			<font>
+				<Font name="System Bold" size="10.0" />
+			</font>
+		</Label>
+		
+		<Label fx:id="lblTitel" layoutX="10.0" layoutY="40.0" prefHeight="20.0" prefWidth="500.0" text=" " textAlignment="LEFT">
+            <font>
+                <Font size="25.0" />
+            </font>
+        </Label>
+        
+
+		<MenuBar layoutX="3.0" layoutY="2.0" prefHeight="28.0" prefWidth="1180.0">
+			<menus>
+				<Menu mnemonicParsing="false" text="File">
+					<items>
+						<MenuItem mnemonicParsing="false" onAction="#home" text="Home" />
+						<MenuItem mnemonicParsing="false" onAction="#abmelden" text="Abmelden" />
+					</items>
+				</Menu>
+				<Menu mnemonicParsing="false" text="Rechnungen">
+					<items>
+						<MenuItem mnemonicParsing="false" onAction="#rechnungErstellen" text="Rechnung erstellen" />						
+						<MenuItem mnemonicParsing="false" onAction="#rechnungen" text="Rechnungen suchen" />
+					</items>
+				</Menu>
+				<Menu mnemonicParsing="false" text="Produkte">
+					<items>
+						<MenuItem mnemonicParsing="false" onAction="#produktFinden" text="Produkte suchen" />	
+						<MenuItem mnemonicParsing="false" onAction="#produktRuecknahme" text="Produkt zurücknehmen" />
+					</items>
+				</Menu>
+			</menus>
+		</MenuBar>
+
+	</children>
+</AnchorPane>

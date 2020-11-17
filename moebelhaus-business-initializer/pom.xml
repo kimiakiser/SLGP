@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>ch.hslu.informatik</groupId>
+		<artifactId>moebelhaus</artifactId>
+		<version>1.0</version>
+	</parent>
+
+	<artifactId>moebelhaus-business-initializer</artifactId>
+	<name>moebelhaus-business-initializer</name>
+	<url>http://maven.apache.org</url>
+
+	<dependencies>
+		<dependency>
+			<groupId>ch.hslu.informatik</groupId>
+			<artifactId>moebelhaus-model</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.hslu.informatik</groupId>
+			<artifactId>moebelhaus-persister</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jdom</groupId>
+			<artifactId>jdom2</artifactId>
+			<version>2.0.6</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+
+			<!-- <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-dependency-plugin</artifactId> 
+				<version>3.0.0</version> <executions> <execution> <id>unpack-dependencies</id> 
+				<phase>package</phase> <goals> <goal>unpack-dependencies</goal> </goals> 
+				<configuration> <excludeScope>system</excludeScope> <excludeGroupIds>junit,org.mockito,org.hamcrest</excludeGroupIds> 
+				<outputDirectory>${project.build.directory}/classes</outputDirectory> </configuration> 
+				</execution> </executions> </plugin> -->
+
+			<!-- <plugin> <groupId>org.apache.maven.plugins</groupId> <artifactId>maven-shade-plugin</artifactId> 
+				<version>2.4.3</version> <executions> <execution> <phase>package</phase> 
+				<goals> <goal>shade</goal> </goals> <configuration> <transformers> <transformer 
+				implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer"> 
+				<manifestEntries> <Main-Class>ch.hslu.informatik.moebelhandel.moebelhaus.business.initializer.AppInitializer</Main-Class> 
+				<Build-Number>2017-01-20</Build-Number> </manifestEntries> </transformer> 
+				</transformers> </configuration> </execution> </executions> </plugin> -->
+
+		</plugins>
+	</build>
+</project>

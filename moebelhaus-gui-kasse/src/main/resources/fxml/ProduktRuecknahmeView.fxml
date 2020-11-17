@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.kasse.ProduktRuecknahmeViewController">
+	<children>
+		<Label layoutX="10.0" layoutY="15.0" prefHeight="25.0" prefWidth="120.0" text="Rechnungsnummer: " />
+		<TextField fx:id="txtRechnungsNr" layoutX="140.0" layoutY="15.0" onAction="#rechnungAnzeigen" prefHeight="25.0" prefWidth="150.0" />
+		
+		<Label layoutX="310.0" layoutY="75.0" prefHeight="25.0" prefWidth="120.0" text="Anzahl:" />
+		<ComboBox fx:id="cmbAnzahl" layoutX="400.0" layoutY="75.0" prefHeight="25.0" prefWidth="50.0" />
+		
+		<Label layoutX="310.0" layoutY="15.0" prefHeight="25.0" prefWidth="120.0" text="Bemerkung:" />
+		<TextArea fx:id="txtBemerkung" layoutX="400.0" layoutY="15.0" prefHeight="55.0" prefWidth="600.0" promptText="Geben Sie an, wieso das Produkt zurückgenomen wird." />
+		
+		<Separator layoutX="10.0" layoutY="135.0" prefHeight="3.0" prefWidth="1160.0" />
+      	<Separator layoutX="299.0" layoutY="0.0" orientation="VERTICAL" prefHeight="130.0" prefWidth="3.0" />
+      	<Separator layoutX="1009.0" layoutY="0.0" orientation="VERTICAL" prefHeight="130.0" prefWidth="3.0" />
+		
+		<Button layoutX="140.0" layoutY="105.0" mnemonicParsing="false" onAction="#rechnungAnzeigen" prefHeight="25.0" prefWidth="150.0" text="Rechnung anezeigen" />
+		<Button layoutX="310.0" layoutY="105.0" mnemonicParsing="false" onAction="#ruecknahmeGenerieren" prefHeight="25.0" prefWidth="200.0" text="Rücknahme hinzufügen" />
+		<Button layoutX="800.0" layoutY="105.0" mnemonicParsing="false" onAction="#ruecknahmeBestaetigen" prefHeight="25.0" prefWidth="200.0" text="Rücknahme bestätigen" />
+		<Button layoutX="1020.0" layoutY="105.0" mnemonicParsing="false" onAction="#reset" prefHeight="25.0" prefWidth="150.0" text="Abbrechen" />
+
+		<Label layoutX="10.0" layoutY="142.0" text="Rücknahmevorschau:" />
+		<TableView fx:id="tblRuecknahme" layoutX="10.0" layoutY="160.0" prefHeight="130.0" prefWidth="1160.0">
+			<columns>
+				<TableColumn fx:id="colNr" prefWidth="55.0" text="Nr." />
+				<TableColumn fx:id="colRechnungsNr" prefWidth="150.0" text="Rechnung Nr." />
+				<TableColumn fx:id="colProduktCode" prefWidth="150.0" text="Produkt Code" />
+				<TableColumn fx:id="colBemerkung" prefWidth="725.0" text="Bemerkung / Begründung" />
+				<TableColumn fx:id="colMenge" prefWidth="65.0" text="Anzahl" />
+			</columns>
+		</TableView>
+		
+		<Label layoutX="10.0" layoutY="292.0" text="Rechnungspositionen: " />
+		<TableView fx:id="tblRechnungPosition" layoutX="10.0" layoutY="310.0" onMouseClicked="#initComboBoxe" prefHeight="200.0" prefWidth="1160.0">
+			<columns>
+				<TableColumn fx:id="colNummer" prefWidth="55.0" text="Nr." />
+				<TableColumn fx:id="colProduktname" prefWidth="100.0" text="Produkt-Typ" />
+				<TableColumn fx:id="colProduktTypCode" prefWidth="150.0" text="Produkt-Typ Code" />
+				<TableColumn fx:id="colBeschreibung" prefWidth="560.0" text="Beschreibung" />
+				<TableColumn fx:id="colLieferant" prefWidth="150.0" text="Lieferant" />
+				<TableColumn fx:id="colPreis" prefWidth="65.0" text="Preis" />
+				<TableColumn fx:id="colAnzahl" prefWidth="65.0" text="Anzahl" />
+			</columns>
+		</TableView>
+	</children>
+</AnchorPane>

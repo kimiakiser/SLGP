@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1180.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.hslu.informatik.moebelhandel.moebelhaus.gui.lager.BestellungErfassenViewController">
+	<children>
+		<Label layoutX="10.0" layoutY="15.0" text="Lieferant:" />
+		<ComboBox fx:id="cmbLieferant" layoutX="10.0" layoutY="35.0" prefWidth="250.0" />
+		
+		<Label layoutX="280.0" layoutY="15.0" prefWidth="80.0" text="Produktname:" />
+		<ComboBox fx:id="cmbProduktname" layoutX="280.0" layoutY="35.0" prefWidth="200.0" />
+		
+		<Label layoutX="500.0" layoutY="15.0" prefWidth="80.0" text="Produkt-Code:" />
+		<ComboBox fx:id="cmbProduktCode" layoutX="500.0" layoutY="35.0" prefWidth="200.0" />
+		
+		<Label layoutX="720.0" layoutY="15.0" text="Anzahl:" />
+		<TextField fx:id="txtAnzahl" layoutX="720.0" layoutY="35.0" prefHeight="26.0" prefWidth="55.0" />
+		
+		<Label layoutX="795.0" layoutY="15.0" text="Modus:" />
+		<ComboBox fx:id="cmbModus" layoutX="795.0" layoutY="35.0" prefWidth="115.0" />
+		
+		<Separator layoutX="10.0" layoutY="65.0" prefHeight="3.0" prefWidth="1160.0" />
+		<Separator layoutX="920.0" layoutY="0.0" orientation="VERTICAL" prefHeight="500.0" prefWidth="3.0" />
+		
+		<Button layoutX="930.0" layoutY="35.0" mnemonicParsing="false" onAction="#bestellungspositionHinzufuegen" prefHeight="25.0" prefWidth="200.0" text="Bestellungsposition hinzufügen" />
+		<Button fx:id="btnLoeschen" layoutX="930.0" layoutY="90.0" mnemonicParsing="false" onAction="#bestellungPositionLoeschen" prefHeight="25.0" prefWidth="200.0" text="Löschen" />
+		<Button fx:id="btnBestellungGenerieren" layoutX="930.0" layoutY="125.0" mnemonicParsing="false" onAction="#bestellungGenerieren" prefHeight="25.0" prefWidth="200.0" text="Bestellung generieren" />
+		<Button layoutX="930.0" layoutY="160.0" mnemonicParsing="false" onAction="#abbrechen" text="Abbrechen" prefHeight="25.0" prefWidth="200.0" />
+		
+		<Label layoutX="10.0" layoutY="72.0" text="Bestellungspositionen:" />
+		<TableView fx:id="tblBestellung" layoutX="10.0" layoutY="90.0" prefHeight="400.0" prefWidth="900.0">
+			<columns>
+				<TableColumn fx:id="colNummer" prefWidth="48.0" text="Nr." />
+				<TableColumn prefWidth="750.0" text="Produkt">
+					<columns>
+						<TableColumn fx:id="colLieferant" prefWidth="250.0" text="Lieferant" />
+						<TableColumn fx:id="colProduktname" prefWidth="250.0" text="Produktname" />
+						<TableColumn fx:id="colProduktCode" prefWidth="250.0" text="Produkt-Code" />
+					</columns>
+				</TableColumn>
+				<TableColumn fx:id="colAnzahl" prefWidth="100.0" text="Anzahl [Stück]" />
+			</columns>
+		</TableView>
+	</children>
+</AnchorPane>
